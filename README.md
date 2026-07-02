@@ -51,6 +51,7 @@ Reproduction and infrastructure modernization of the DNABERT-2 (Zhou et al., 202
 
 ## Related/Future work
 Extension of this pipeline to personal genomic sequences (continued pretraining on personalized haplotype-resolved corpora, evaluation on non-coding regulatory tasks) is ongoing under institutional data governance and is not part of this public release.
+Downstream directions include: (i) continued pretraining on individualized human genome corpora to test whether variant-conditioned representations improve individualized non-coding regulatory prediction; (ii) comparison across tokenization inductive biases — BPE (DNABERT-2), 6-mer (Nucleotide Transformer v2), and single-nucleotide (Caduceus or Evo2) — for variant representation; (iii) evaluation on individualized regulatory tasks that directly test the personalization hypothesis, which the population-level GUE tasks used here do not.
 
 ## Acknowledgments
 This work builds directly on the DNABERT-2 codebase (MAGICS-LAB) and released tokenizer (zhihan1996/DNABERT-2-117M). See NOTICE for attribution.
