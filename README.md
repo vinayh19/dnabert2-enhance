@@ -1,6 +1,6 @@
 # DNABERT-2 Reproduction and Modernization
 
-Reproduction and infrastructure modernization of the DNABERT-2 (Zhou et al., 2023) pretraining pipeline feeding onto a related work on Personalized Human Genome modeling, with this version restricted to the 1000 Genomes corpus provided by the DNABERT-2 authors, with a controlled ablation over MLM train/eval masking rates. Artifact from my work at Icahn School of Medicine at Mount Sinai. Weights and code released under Apache-2.0.
+Reproduction and infrastructure modernization of the DNABERT-2 (Zhou et al., 2023) pretraining pipeline feeding onto a related work on Personalized Human Genome modeling, with this version restricted to the 1000 Genomes corpus provided by the DNABERT-2 authors, with a controlled ablation over MLM train/eval masking rates. Weights and code released under Apache-2.0.
 
 > **Scope.** This repository reproduces the DNABERT-2 pretraining *recipe* on a
 > multi-species corpus. It is not a drop-in replacement for the released
