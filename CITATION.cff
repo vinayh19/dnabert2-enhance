@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "dnabert2-enhance: Reproduction and Modernization"
+authors:
+  - family-names: "Hariharan"
+    given-names: "Vinay"
+    orcid: "https://orcid.org/0009-0003-9396-7359"
+version: 0.1.0
+date-released: 2026-06-01
+license: Apache-2.0
+repository-code: "https://github.com/vinayh19/dnabert2-enhance"
+references:
+  - type: article
+    title: "DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome"
+    authors:
+      - family-names: "Zhou"
+        given-names: "Zhihan"
+      - family-names: "Ji"
+        given-names: "Yanrong"
+      - family-names: "Li"
+        given-names: "Weijian"
+      - family-names: "Dutta"
+        given-names: "Pratik"
+      - family-names: "Davuluri"
+        given-names: "Ramana"
+      - family-names: "Liu"
+        given-names: "Han"
+    year: 2023
+    url: "https://arxiv.org/abs/2306.15006"
+    identifiers:
+      - type: other
+        value: "arXiv:2306.15006"
+        description: "arXiv preprint identifier"
