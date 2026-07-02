@@ -38,7 +38,7 @@ Reproduction and infrastructure modernization of the DNABERT-2 (Zhou et al., 202
   | C    | 30%        | 15%       | Asymmetric; higher signal per step, standard eval. |
 
 ### Training
-[optimizer, LR schedule, warmup, batch, grad accum, precision, hardware, wall-clock.]
+[optimizer, LR schedule, warmup, batch, grad accum, precision, hardware, wall-clock - TBA]
 
 ## Downstream evaluation [Public Checkpoint]
 - Benchmark: GUE (Zhou et al., 2023).
