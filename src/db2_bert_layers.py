@@ -3,6 +3,7 @@
 # Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
 # Copyright (c) 2018-2021, NVIDIA CORPORATION.  All rights reserved.
 # Copyright (c) 2022, Tri Dao.
+# Modifications Copyright 2025 Vinay Hariharan
 
 import copy
 import logging
