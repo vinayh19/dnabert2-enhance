@@ -1,3 +1,5 @@
+# Copyright 2026 Vinay Hariharan
+# Licensed under the Apache License, Version 2.0
 # genomic_metrics.py - Shared metrics for Composer-based training - DNABERT2 versions
 import math
 import torch
