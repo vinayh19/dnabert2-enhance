@@ -1,0 +1,13 @@
+dnabert2-enhance
+Copyright 2026 Vinay Hariharan
+
+Portions of this software are derived from:
+  DNABERT-2 (https://github.com/MAGICS-LAB/DNABERT_2)
+  Copyright 2023 MAGICS-LAB, Northwestern University
+  Licensed under the Apache License, Version 2.0
+
+  MosaicML Examples (https://github.com/mosaicml/examples)
+  Copyright 2022 MosaicML Examples authors
+  Licensed under the Apache License, Version 2.0
+
+Modifications include: FlashAttention-2 attention backend, MLM masking-rate parameterization, best-eval-loss checkpoint capture callback, MaskedPerplexity metric and the code is aligned to work with NVIDIA H100/A100/B200 GPUs.
